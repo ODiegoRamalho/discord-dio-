@@ -15,7 +15,6 @@ section img {
 
 }
 
-
 section .section-txt h3 {
     width: 329px;
     height: 108px;
@@ -25,13 +24,7 @@ section .section-txt h3 {
 
 }
 
-/* header .interface {
-
-    background-color: rgba(0, 0, 0, 0.455);
-
-} */
-
-header .interface { /**/
+header .interface { 
     position: relative;
 }
 
@@ -119,7 +112,6 @@ section.section-1 .interface {
 
 }
 
-
 .section-1 .section-txt {
     width: 348px;
     height: 374px;
@@ -198,7 +190,6 @@ section.section-3 .interface {
     height: 234px;
     color: #23272A;
 }
-
 
 .section-3 .section-txt p {
     width: 348px;
